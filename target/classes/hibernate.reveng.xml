@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE hibernate-reverse-engineering PUBLIC "-//Hibernate/Hibernate Reverse Engineering DTD 3.0//EN" "http://hibernate.org/dtd/hibernate-reverse-engineering-3.0.dtd" >
+
+<hibernate-reverse-engineering>
+  <table-filter match-catalog="orm_gestion_proyectos2" match-name="asig_proyecto"/>
+  <table-filter match-catalog="orm_gestion_proyectos2" match-name="datos_prof"/>
+  <table-filter match-catalog="orm_gestion_proyectos2" match-name="emp_plantilla"/>
+  <table-filter match-catalog="orm_gestion_proyectos2" match-name="empleado"/>
+  <table-filter match-catalog="orm_gestion_proyectos2" match-name="proyecto"/>
+</hibernate-reverse-engineering>
